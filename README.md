@@ -1,4 +1,3 @@
-#dio-desafio-github-primeiro-repositorio
 #Primeiro desafio do github para compartilhar o progresso
 Bootcamp GFT
 
